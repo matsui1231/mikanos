@@ -4,12 +4,6 @@
  * カーネル本体のプログラムを書いたファイル．
  */
 
-#ifndef __cplusplus
-#include <stdint.h>
-#else
-#include <cstdint>
-#endif
-
 #include <cstdint>
 #include <cstddef>
 #include <cstdio>
