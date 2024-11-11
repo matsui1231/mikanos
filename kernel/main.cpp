@@ -6,7 +6,6 @@
 
 #include "stdint.h"
 
-#include <cstdint>
 #include <cstddef>
 #include <cstdio>
 
