@@ -4,7 +4,6 @@
  * カーネル本体のプログラムを書いたファイル．
  */
 
-// main.cpp
 #ifndef __cplusplus
 #include <stdint.h>
 #else
